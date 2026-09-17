@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1HelloAndroid</string>
+    <string name="message">Hello Android!</string>
+    <string name="btn_label">Click Me</string>
+    <string name="button_clicked">Button clicked</string>
+    <string name="bttn_clik">Button is Clicked!</string>
+</resources>
