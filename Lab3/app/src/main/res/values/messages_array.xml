@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="message_senders">
+        <item>Jess</item>
+        <item>Kim</item>
+        <item>Jess</item>
+        <item>Luann</item>
+        <item>Jess</item>
+        <item>Kim</item>
+        <item>Kim</item>
+        <item>Luann</item>
+    </string-array>
+
+    <string-array name="message_repliers">
+        <item>Hi</item>
+        <item>Hey</item>
+        <item>How are you?</item>
+        <item>What\'s up? </item>
+        <item>Hey long time no see!</item>
+        <item>I\'m good.</item>
+        <item>What have you been up to?</item>
+        <item>Busy working of course!!!</item>
+    </string-array>
+</resources>
